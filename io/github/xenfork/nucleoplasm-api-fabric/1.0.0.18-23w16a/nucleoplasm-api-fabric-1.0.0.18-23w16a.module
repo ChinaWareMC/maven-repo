@@ -27,11 +27,11 @@
         {
           "name": "nucleoplasm-api-fabric-1.0.0.18-23w16a.jar",
           "url": "nucleoplasm-api-fabric-1.0.0.18-23w16a.jar",
-          "size": 983850,
-          "sha512": "75450f94ead5524727a8c1a7e407beb56df2e6392a0cb5b1a6de13a32a37ae920c3bff13c667628e22e10e91e007e9aaab12714e2baf95e0dafc4e871ccd4128",
-          "sha256": "5debb28292e0daf631e49ded30dad9a253bcf6356478c71fb9dfd7c420007cbf",
-          "sha1": "cc03f1359909941b037db1ac11a3871b7d1d6713",
-          "md5": "b30f554381843763d7b38707d5bb78b5"
+          "size": 986823,
+          "sha512": "4fae24800862d6d7969664da24f3dadf4f3ff55b62e7aa44472d2a5cece10669988cb48450eca69626664812a73693c5510368ed2bb7c1b3b4db7be602a64560",
+          "sha256": "b2836b3d0b9001c6a82b43c64f3e8338454b1534b970cab62236be2aadf4f50e",
+          "sha1": "d56766dec6c084b4f61f640c14d97c50f03a68e9",
+          "md5": "5cfb1361365980e7d505f9f585e3d7c9"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "name": "nucleoplasm-api-fabric-1.0.0.18-23w16a.jar",
           "url": "nucleoplasm-api-fabric-1.0.0.18-23w16a.jar",
-          "size": 983850,
-          "sha512": "75450f94ead5524727a8c1a7e407beb56df2e6392a0cb5b1a6de13a32a37ae920c3bff13c667628e22e10e91e007e9aaab12714e2baf95e0dafc4e871ccd4128",
-          "sha256": "5debb28292e0daf631e49ded30dad9a253bcf6356478c71fb9dfd7c420007cbf",
-          "sha1": "cc03f1359909941b037db1ac11a3871b7d1d6713",
-          "md5": "b30f554381843763d7b38707d5bb78b5"
+          "size": 986823,
+          "sha512": "4fae24800862d6d7969664da24f3dadf4f3ff55b62e7aa44472d2a5cece10669988cb48450eca69626664812a73693c5510368ed2bb7c1b3b4db7be602a64560",
+          "sha256": "b2836b3d0b9001c6a82b43c64f3e8338454b1534b970cab62236be2aadf4f50e",
+          "sha1": "d56766dec6c084b4f61f640c14d97c50f03a68e9",
+          "md5": "5cfb1361365980e7d505f9f585e3d7c9"
         }
       ]
     },
@@ -139,11 +139,11 @@
         {
           "name": "nucleoplasm-api-fabric-1.0.0.18-23w16a-sources.jar",
           "url": "nucleoplasm-api-fabric-1.0.0.18-23w16a-sources.jar",
-          "size": 142280,
-          "sha512": "52dcdf5d787fb9765c77dc68cd09ea0fcae26cd106c9c59dacd788806a4373cfa957a5cfeea0397faa6787784b0386ac1966559f79407f1466601919a72136ec",
-          "sha256": "5cc95c5e6a11481d8c8a3fcb4a604dd715dd55d2c042b4f9c446afc1df134836",
-          "sha1": "3aea370a8b713ea2ffb6fd3d9eb2797e4f0c5a1f",
-          "md5": "e3e06088dded07485926a07329fbeeb9"
+          "size": 143549,
+          "sha512": "bde0df4a290de3d81b746cd6d33ce941f811718c08c7c66236139347d0b323d509da9444256fbcb6b12f30547fd1190878d2c04b46f953c335e6545d1e181061",
+          "sha256": "98b35d5f0e51f0d95fa13ad6d89ccaf0eaf53faf16080be12ceb5543e33e1980",
+          "sha1": "d47814ac6b6a29f550739984b6908f7304f40937",
+          "md5": "dbe912dfa236ed0dedc1d235fbe1e65d"
         }
       ]
     }
