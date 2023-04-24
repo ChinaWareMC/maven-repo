@@ -3,13 +3,14 @@
   <groupId>io.github.xenfork</groupId>
   <artifactId>nucleoplasm-api-fabric</artifactId>
   <versioning>
-    <latest>1.0.0.19-23w16a</latest>
-    <release>1.0.0.19-23w16a</release>
+    <latest>1.0.0.21-23w16a</latest>
+    <release>1.0.0.21-23w16a</release>
     <versions>
       <version>1.0.0.17-23w16a</version>
       <version>1.0.0.18-23w16a</version>
       <version>1.0.0.19-23w16a</version>
+      <version>1.0.0.21-23w16a</version>
     </versions>
-    <lastUpdated>20230424054023</lastUpdated>
+    <lastUpdated>20230424165425</lastUpdated>
   </versioning>
 </metadata>
