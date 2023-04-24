@@ -5,5 +5,7 @@ maven仓库 中国所有组织都可以在此仓库传上你的代码，他是�
 ## Using with Gradle
 
 ```groovy
-maven { url 'https://chinawaremc.github.io/maven-repo/' }
+maven { 
+        url 'https://chinawaremc.github.io/maven-repo/' 
+}
 ```
