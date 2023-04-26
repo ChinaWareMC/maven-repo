@@ -1,1 +1,2 @@
-- [io](io/index.md)
+---
+- [io/](io/index.md)
