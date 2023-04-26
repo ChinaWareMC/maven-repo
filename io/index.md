@@ -2,4 +2,4 @@
 
 ---
 - [../](../index.md)
-- [github](github/index.md)
+- [github/](github/index.md)
