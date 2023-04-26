@@ -1,7 +1,7 @@
 # io/github/xenfork/1.0.0.21-23w16a/
 
 ---
-- [../](../index.md)</font></br>
+- [../](../index.md)
 - [nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar](nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar)
 - [nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar.md5](nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar.md5)
 - [nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar.sha1](nucleoplasm-api-fabric-1.0.0.21-23w16a-sources.jar.sha1)
