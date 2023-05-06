@@ -11,3 +11,15 @@ maven {
     url 'https://chinawaremc.github.io/maven-repo/' 
 }
 ```
+
+## maven index
+
+Only administrators can use the Maven index
+
+[link to maven index build gradle](https://github.com/ChinaWareMC/gen-maven-list)
+
+### why?
+
+```text
+Because each person's item index is different, index conflicts can occur, so only administrators need to index them periodically to avoid conflicts
+```
