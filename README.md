@@ -4,6 +4,9 @@
 
 maven仓库 中国所有组织都可以在此仓库传上你的代码，他是个maven库
 
+> **Warning**  
+> 禁止上传特大二进制文件，请自行搭建服务器或使用 Maven Central
+
 ## Using with Gradle
 
 ```groovy
