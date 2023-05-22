@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.xenfork",
+    "module": "nucleoplasm-json-edit-fabric",
+    "version": "1.0.0.3-1.20-pre4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4.jar",
+          "url": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4.jar",
+          "size": 143906,
+          "sha512": "22ac210d28d7178847cfdbf883b88d2d11667a1e65c46c4af01068a708a64677751f823e65d594009636eb1fd961137bc627d7b228e8dbfe2f2e6d646756cf55",
+          "sha256": "423aef99d665494de7866c2d6bfec390b93f5da7ea90ae2219f56a0b591333dd",
+          "sha1": "65d5b960a0b04225ed708b4da257990bd4bdef0f",
+          "md5": "93b797eddd434df1b3f2c024d2229ba7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.19"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.81.2+1.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4.jar",
+          "url": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4.jar",
+          "size": 143906,
+          "sha512": "22ac210d28d7178847cfdbf883b88d2d11667a1e65c46c4af01068a708a64677751f823e65d594009636eb1fd961137bc627d7b228e8dbfe2f2e6d646756cf55",
+          "sha256": "423aef99d665494de7866c2d6bfec390b93f5da7ea90ae2219f56a0b591333dd",
+          "sha1": "65d5b960a0b04225ed708b4da257990bd4bdef0f",
+          "md5": "93b797eddd434df1b3f2c024d2229ba7"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4-sources.jar",
+          "url": "nucleoplasm-json-edit-fabric-1.0.0.3-1.20-pre4-sources.jar",
+          "size": 139387,
+          "sha512": "181e3d9ba8048ac72841d24f9c303bd0f1c271bc2882b01e7130ae03f51f246c77be8ed16aefda0171d95cf20bdc3f342f253bfa5db25503b7b9a69b9a09db85",
+          "sha256": "84d610fc55a9a8530898d4007df001a86fea4bdd4a293505dab9c517777d515a",
+          "sha1": "ea2962e983daf6d412088358322bc51e08bcae48",
+          "md5": "c8a41814e835d226edc30ef0ade51125"
+        }
+      ]
+    }
+  ]
+}
