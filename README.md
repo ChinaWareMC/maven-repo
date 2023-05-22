@@ -1,6 +1,6 @@
 # maven-repo
 
-[查看索引](index.md)
+[查看索引](https://chinawaremc.github.io/maven-repo/)
 
 maven仓库 中国所有组织都可以在此仓库传上你的代码，他是个maven库
 
