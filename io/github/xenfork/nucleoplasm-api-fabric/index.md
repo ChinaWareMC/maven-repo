@@ -12,8 +12,9 @@
 - [1.0.0.33-1.20](1.0.0.33-1.20/index.md)
 - [1.0.0.34-1.20](1.0.0.34-1.20/index.md)
 - [1.0.0.35-1.20](1.0.0.35-1.20/index.md)
-- [maven-metadata.xml](maven-metadata.xml) Thu Jun 08 20:40:31 CST 2023
-- [maven-metadata.xml.md5](maven-metadata.xml.md5) Thu Jun 08 20:40:31 CST 2023
-- [maven-metadata.xml.sha1](maven-metadata.xml.sha1) Thu Jun 08 20:40:31 CST 2023
-- [maven-metadata.xml.sha256](maven-metadata.xml.sha256) Thu Jun 08 20:40:31 CST 2023
-- [maven-metadata.xml.sha512](maven-metadata.xml.sha512) Thu Jun 08 20:40:31 CST 2023
+- [1.0.0.36-1.20](1.0.0.36-1.20/index.md)
+- [maven-metadata.xml](maven-metadata.xml) Thu Jun 08 22:27:31 CST 2023
+- [maven-metadata.xml.md5](maven-metadata.xml.md5) Thu Jun 08 22:27:31 CST 2023
+- [maven-metadata.xml.sha1](maven-metadata.xml.sha1) Thu Jun 08 22:27:31 CST 2023
+- [maven-metadata.xml.sha256](maven-metadata.xml.sha256) Thu Jun 08 22:27:31 CST 2023
+- [maven-metadata.xml.sha512](maven-metadata.xml.sha512) Thu Jun 08 22:27:31 CST 2023
