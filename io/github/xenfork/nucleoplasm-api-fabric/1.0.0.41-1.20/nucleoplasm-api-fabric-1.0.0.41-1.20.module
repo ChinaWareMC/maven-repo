@@ -1,0 +1,159 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.xenfork",
+    "module": "nucleoplasm-api-fabric",
+    "version": "1.0.0.41-1.20",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-api-fabric-1.0.0.41-1.20.jar",
+          "url": "nucleoplasm-api-fabric-1.0.0.41-1.20.jar",
+          "size": 1361444,
+          "sha512": "55ca1d57c3c7bab9004f88a4d8950a07097b6b679386fa6415710b435902ddd63d9c4fdfb61fd6c56ada7b594cb6be4be43afb489aa86e085726fddfd6341053",
+          "sha256": "2306d64b2689af7742b2e61e486060272d43d9bd212a9a9a248f1eec190701a5",
+          "sha1": "752421791259735527f02623efa25923f44accdb",
+          "md5": "f86c99a81b9e14c2d7c08c8ee0f171d0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.83.0+1.20"
+          }
+        },
+        {
+          "group": "com.github.artbits",
+          "module": "quickio",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "org.iq80.leveldb",
+          "module": "leveldb",
+          "version": {
+            "requires": "0.12"
+          }
+        },
+        {
+          "group": "org.iq80.leveldb",
+          "module": "leveldb-api",
+          "version": {
+            "requires": "0.12"
+          }
+        },
+        {
+          "group": "io.protostuff",
+          "module": "protostuff-core",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "io.protostuff",
+          "module": "protostuff-api",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "io.protostuff",
+          "module": "protostuff-runtime",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "io.protostuff",
+          "module": "protostuff-collectionschema",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "com.moandjiezana.toml",
+          "module": "toml4j",
+          "version": {
+            "requires": "0.7.2"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nucleoplasm-api-fabric-1.0.0.41-1.20.jar",
+          "url": "nucleoplasm-api-fabric-1.0.0.41-1.20.jar",
+          "size": 1361444,
+          "sha512": "55ca1d57c3c7bab9004f88a4d8950a07097b6b679386fa6415710b435902ddd63d9c4fdfb61fd6c56ada7b594cb6be4be43afb489aa86e085726fddfd6341053",
+          "sha256": "2306d64b2689af7742b2e61e486060272d43d9bd212a9a9a248f1eec190701a5",
+          "sha1": "752421791259735527f02623efa25923f44accdb",
+          "md5": "f86c99a81b9e14c2d7c08c8ee0f171d0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-api-fabric-1.0.0.41-1.20-sources.jar",
+          "url": "nucleoplasm-api-fabric-1.0.0.41-1.20-sources.jar",
+          "size": 152467,
+          "sha512": "f9babbc0bf1bead55c671a33c12871dcb64b04e5e4b9a7ed13169c849dbbea64e8fbeb98772460654f89c562cd7ac02384000e63723fdd0e0fea5134fdeb6d68",
+          "sha256": "54b46ead966894127a6e08df76276147383eab8eb69f3cb10740ae4d75fe8c60",
+          "sha1": "f0db014b77a37b0d00a874b77f3f554b7299d6a6",
+          "md5": "53228e5043d4c8cf9d15f2fb9ee390e0"
+        }
+      ]
+    }
+  ]
+}
