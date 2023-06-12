@@ -1,0 +1,124 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.xenfork",
+    "module": "nucleoplasm-normandy-login-fabric",
+    "version": "1.0.0.1-1.20",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20.jar",
+          "url": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20.jar",
+          "size": 156188,
+          "sha512": "15186014985d8447c8d1f673ffb419e8814272f513b074a5c24473b40140c68becb9583d19dbfde3844ae52bc4670eaef2874dbeb3fd789bd6cdb618de00fe07",
+          "sha256": "007ea564f11271f52e19718f328958cbd68469cfceb8b91ced7904c3aae008a8",
+          "sha1": "eb36364575324a80864eee7115b7ad02e97bf195",
+          "md5": "aae6b9a24c14013514639d333ffbacf6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.artbits",
+          "module": "quickio",
+          "version": {
+            "requires": "1.3.4"
+          }
+        },
+        {
+          "group": "com.moandjiezana.toml",
+          "module": "toml4j",
+          "version": {
+            "requires": "0.7.2"
+          }
+        },
+        {
+          "group": "org.yaml",
+          "module": "snakeyaml",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.21"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.83.0+1.20"
+          }
+        },
+        {
+          "group": "io.github.xenfork",
+          "module": "nucleoplasm-api-fabric",
+          "version": {
+            "requires": "1.0.1.11-1.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20.jar",
+          "url": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20.jar",
+          "size": 156188,
+          "sha512": "15186014985d8447c8d1f673ffb419e8814272f513b074a5c24473b40140c68becb9583d19dbfde3844ae52bc4670eaef2874dbeb3fd789bd6cdb618de00fe07",
+          "sha256": "007ea564f11271f52e19718f328958cbd68469cfceb8b91ced7904c3aae008a8",
+          "sha1": "eb36364575324a80864eee7115b7ad02e97bf195",
+          "md5": "aae6b9a24c14013514639d333ffbacf6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20-sources.jar",
+          "url": "nucleoplasm-normandy-login-fabric-1.0.0.1-1.20-sources.jar",
+          "size": 146385,
+          "sha512": "8b087b57dd891cb5cb9349d2746af09a0232a65d3978bed5e125e8cd999d0442c5c9e853bd7c33becc679a8d139489e4ce7f2f72e4137853763a6fbe4ff6f911",
+          "sha256": "8927f6eacbde0a900b60c6e8257df4f931dee64275b58ddd4f8c53957727fdf6",
+          "sha1": "075e43960e9433829f2faa7aceb90648d4998cb0",
+          "md5": "45a28625a4042a79909241638fbb8a91"
+        }
+      ]
+    }
+  ]
+}
