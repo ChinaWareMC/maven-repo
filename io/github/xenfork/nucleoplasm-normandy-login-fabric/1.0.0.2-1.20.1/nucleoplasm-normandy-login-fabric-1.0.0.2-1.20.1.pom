@@ -44,7 +44,7 @@
     <dependency>
       <groupId>io.github.xenfork</groupId>
       <artifactId>nucleoplasm-api-fabric</artifactId>
-      <version>1.0.1.14-1.20.1</version>
+      <version>1.0.1.15-1.20.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
