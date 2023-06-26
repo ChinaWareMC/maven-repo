@@ -27,11 +27,11 @@
         {
           "name": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1.jar",
           "url": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1.jar",
-          "size": 154506,
-          "sha512": "f3f003d21a6dfc7be8bbffcea79f8f58c23170faca2fd81f53227ba30927269eac98b088c673d8cabc3b82c8286b4e7c75e5e08d6d730707f85c1cf4828240f8",
-          "sha256": "642934bf1e6cb480c553fa37eb2e3d2d27a06b314696b49c8e48c7a38296e2c8",
-          "sha1": "894d517abe915c3c431ff0330650e3ffd31cc2ac",
-          "md5": "1fb3154ef6c36b726f790f62e57473d5"
+          "size": 155387,
+          "sha512": "6b189f3267a71f0cc4897f912699b81d337752eaf8f48dd33408f7a4aaa943bed93b4595950956c5389de9b4ee28069d80dc3588cf42750c45e20f1a4a7fa312",
+          "sha256": "2de1a42ef9cd16212b7ed1a70518e68a5701f0ad33d99f480a319a06b6ac1e31",
+          "sha1": "fec552d4e0dfd2ef3ec81941b83f1675ec75be58",
+          "md5": "f6332522917eb304a33d9892e899fb68"
         }
       ]
     },
@@ -84,7 +84,7 @@
           "group": "io.github.xenfork",
           "module": "nucleoplasm-api-fabric",
           "version": {
-            "requires": "1.0.1.13-1.20.1"
+            "requires": "1.0.1.14-1.20.1"
           }
         }
       ],
@@ -92,11 +92,11 @@
         {
           "name": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1.jar",
           "url": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1.jar",
-          "size": 154506,
-          "sha512": "f3f003d21a6dfc7be8bbffcea79f8f58c23170faca2fd81f53227ba30927269eac98b088c673d8cabc3b82c8286b4e7c75e5e08d6d730707f85c1cf4828240f8",
-          "sha256": "642934bf1e6cb480c553fa37eb2e3d2d27a06b314696b49c8e48c7a38296e2c8",
-          "sha1": "894d517abe915c3c431ff0330650e3ffd31cc2ac",
-          "md5": "1fb3154ef6c36b726f790f62e57473d5"
+          "size": 155387,
+          "sha512": "6b189f3267a71f0cc4897f912699b81d337752eaf8f48dd33408f7a4aaa943bed93b4595950956c5389de9b4ee28069d80dc3588cf42750c45e20f1a4a7fa312",
+          "sha256": "2de1a42ef9cd16212b7ed1a70518e68a5701f0ad33d99f480a319a06b6ac1e31",
+          "sha1": "fec552d4e0dfd2ef3ec81941b83f1675ec75be58",
+          "md5": "f6332522917eb304a33d9892e899fb68"
         }
       ]
     },
@@ -112,11 +112,11 @@
         {
           "name": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1-sources.jar",
           "url": "nucleoplasm-normandy-login-fabric-1.0.0.2-1.20.1-sources.jar",
-          "size": 145410,
-          "sha512": "aa878c6356405a59b9fe52106ead2ce00a510ff321b6f3f9812a44fa0fe774899e2a7c07b2adfdb6d0878aad671df4a795351b304936da126f4d26aab37514e3",
-          "sha256": "35c82b02bffbe7f1d53c0bc534c4227b4466d3ba8cd8aafe168a5073877e1c9c",
-          "sha1": "15f83113aa8be27c8a8a6f1de47106bf8d52b636",
-          "md5": "507fb74401a5a776e683b809e5a7ede9"
+          "size": 145757,
+          "sha512": "7c73f69c6024b48fc5970f645d8e490ec73b7a63faf4cca2ef9aaa08981dbfc80f261d580c9c6a202ea0f9149ea1759aec3dec178bb32a52ad5a30a77cc9adee",
+          "sha256": "8e3f4d379e2511dc03398ce141c5539fcea3185925f94800d59c1908cb4a83fd",
+          "sha1": "70df4c456dd9f969ba0b3fe72fe801e7908b8bdc",
+          "md5": "cdeff10ede5f570dc4647aa2bb72e77e"
         }
       ]
     }
